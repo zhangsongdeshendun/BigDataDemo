@@ -1,9 +1,13 @@
+com/songchao/hadoop/mapreduce/PartitionerApp.class
 com/songchao/hadoop/mapreduce/WordCountApp$MyMapper.class
 com/songchao/hadoop/mapreduce/ConbinerApp$MyMapper.class
 com/songchao/hadoop/mapreduce/ConbinerApp$MyReduce.class
+com/songchao/hadoop/mapreduce/PartitionerApp$MyMapper.class
 com/songchao/hadoop/mapreduce/WordCountApp.class
 com/songchao/hadoop/mapreduce/ConbinerApp.class
+com/songchao/hadoop/mapreduce/PartitionerApp$MyReduce.class
+com/songchao/hadoop/mapreduce/WordCount2App.class
+com/songchao/hadoop/mapreduce/PartitionerApp$myPartitioner.class
 com/songchao/hadoop/mapreduce/WordCountApp$MyReduce.class
 com/songchao/hadoop/mapreduce/WordCount2App$MyReduce.class
-com/songchao/hadoop/mapreduce/WordCount2App.class
 com/songchao/hadoop/mapreduce/WordCount2App$MyMapper.class
